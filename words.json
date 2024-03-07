@@ -1,0 +1,13 @@
+{
+    "animals": ["dog", "cat", "elephant", "tiger", "giraffe"],
+    "fruits": ["apple", "banana", "orange", "grape", "watermelon"],
+    "colors": ["red", "blue", "green", "yellow", "orange"],
+    "technology": [
+      "computer", "programming", "algorithm", "database", "software",
+      "internet", "network", "encryption", "security", "automation",
+      "framework", "debugging", "opensource", "developer", "versioncontrol"
+    ],
+    "countries": ["USA", "India", "Japan", "Brazil", "Australia"],
+    "sports": ["soccer", "basketball", "tennis", "cricket", "swimming"]
+  }
+  
